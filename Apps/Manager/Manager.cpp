@@ -17,7 +17,7 @@ gl_lcd::framebuffer fb;
 
 void Tetris_Func()
 {
-  system("../Tetris/tetris.out");
+  system("/home/rokko_oroshi/RokkoFestival/Apps/Tetris/tetris.out");
   usleep(500000);
   while(!bcm2835_gpio_lev(SW_g));
 }
