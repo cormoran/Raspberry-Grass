@@ -1,3 +1,4 @@
+//License : GPL V2
 #include"../../Library/Glcd.h"
 #include"../../Library/FrameBuffer/framebuffer.h"
 #include<bcm2835.h>

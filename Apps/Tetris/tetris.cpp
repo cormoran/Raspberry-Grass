@@ -1,3 +1,4 @@
+//License : GPL V2
 #include <unistd.h>
 #include<cstdio>
 #include<cstdlib>

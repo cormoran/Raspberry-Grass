@@ -1,3 +1,4 @@
+//License : GPL V2
 #include "M014C9163SPI/M014C9163SPI.h"
 #include"Glcd.h"
 #include<cstdlib>

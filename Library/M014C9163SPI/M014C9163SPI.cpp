@@ -1,3 +1,4 @@
+//License : GPL V2
 #include<bcm2835.h>
 #include<unistd.h>
 #include<cstdio>
