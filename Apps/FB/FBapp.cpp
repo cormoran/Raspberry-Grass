@@ -1,9 +1,10 @@
 //License : GPL V2
-#include”../../Library/Glcd.h"
-#include”../../Library/FrameBuffer/framebuffer.h"
+#include "../../Library/Glcd.h"
+#include "../../Library/FrameBuffer/framebuffer.h"
 #include<unistd.h>
 #include<iostream>
 #include<cstdio>
+#include<cstdlib>
 #include<bcm2835.h>
 
 #define SW_g RPI_BPLUS_GPIO_J8_03//green 
